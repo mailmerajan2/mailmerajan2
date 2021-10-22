@@ -84,7 +84,7 @@ public class RunAll extends BaseClass {
 	
 	System.out.println(getOrderText(adaBC.getOrderNo()));
 	
-	quitBrowser();
+	//quitBrowser();
 	
 	}
 }
